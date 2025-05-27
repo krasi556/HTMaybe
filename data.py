@@ -5,7 +5,7 @@ from PIL import Image
 
 file = 'data_request.json'
 
-url = f"https://webhook.site/token/06b20f75-51d1-48e4-9557-da9ce774d660/requests?limit=1"
+url = f"https://webhook.site/token/6aea8dca-92b8-4df6-be25-2873fb31dda0"
 
 showcase = int(input('Do you wish the data to be:\n\n'
                      'Printed: press 1\n'
